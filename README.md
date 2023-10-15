@@ -5,4 +5,4 @@ dashboard 1 public link https://public.tableau.com/app/profile/jayasudha.k/viz/T
 
 story link https://public.tableau.com/app/profile/jayasudha.k/viz/TheTableauHRScorecardMeasuringSuccessinTalentManagement_16968375555200/Story1
 
-video demonstration linkhttps://drive.google.com/file/d/15JupqmRUv-71ffSWddyoPd_bhnN3rxLR/view?usp=drivesdk 
+video demonstration link:https://drive.google.com/file/d/15JupqmRUv-71ffSWddyoPd_bhnN3rxLR/view?usp=drivesdk
